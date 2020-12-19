@@ -1,0 +1,38 @@
+.nav a {
+    color: black !important;
+    font-family: 'Signika', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+.nav p {
+    color: black !important;
+    font-family: 'Signika', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    border-bottom: 1px solid black;
+  }
+
+body {
+  padding-top: 70px; 
+}
+
+.text-center {
+    font-family: 'Signika', sans-serif;
+    font-weight: bold;
+}
+
+.col {
+  padding-right: 0px;
+  padding-left: 0px;
+}
+.text {
+    margin: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 1px solid black;
+    background-color: grey;
+    font-family: 'Signika', sans-serif;
+}
+
+
